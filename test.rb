@@ -1,4 +1,7 @@
-dhfjksahfjhsdajfhdskjaf
-Hello World
-printf
-hello world 2
+#include<stdio.h>
+
+int main()
+{
+    printf("Hello World!");
+    return 0;
+}
